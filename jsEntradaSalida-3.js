@@ -2,28 +2,9 @@
 y luego mostrarlo por 'Alert' al presionar el botón  'MOSTRAR'*/
 function Mostar()
 {
-	var dato=0;
-	//dato="octavio";
-//dato=document.getElementById('elNombre').value;
-//	alert(dato);
-document.getElementById('elNombre').value="natalianatalia"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	var elNombre =	document.getElementById('elNombre').value;
+	
+	alert("Hola "+elNombre);
 }
 
 

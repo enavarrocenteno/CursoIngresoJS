@@ -4,6 +4,7 @@
 */
 function Mostar()
 {
-	document.getElementById('elNombre').value="nombre";
+document.getElementById('elNombre').value="Ezequiel";
 }
 
+// No entiendo la funcion de esto//
